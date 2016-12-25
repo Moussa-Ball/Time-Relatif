@@ -1,5 +1,5 @@
 # Time-Relatif
 
-## Pour utilisé cette script vous devez ajouter un attribut date-ago dans un élément qui a comme valeur un timestamp.
+## To use this script you must add a date-ago attribute to an element that has a timestamp value.
 
 ### Example : `<div date-ago="{{ strtotime($subject->created_at) }}"></div>`
